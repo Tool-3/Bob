@@ -9,7 +9,7 @@
 # Create a Python file: app.py inside the folder.
 # Create a sub-folder: workspace inside the project folder. This is where the AI will create/edit files.
 # Install libraries:
-pip install streamlit google-generativeai python-dotenv stremalit-option-menu streamlit-ace streamlit-antd-components
+# pip install streamlit google-generativeai python-dotenv stremalit-option-menu streamlit-ace streamlit-antd-components
 # API Key:
 # Get your Gemini API key (from Google AI Studio).
 # Create a file named .env in your project folder.
